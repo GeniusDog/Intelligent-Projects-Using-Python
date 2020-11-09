@@ -1,5 +1,5 @@
 # Intelligent Projects Using Python
-
+# 智能项目使用Python 9实际利用机器学习和人工智能项目深度学习与TensorFlow和Keras Santanu Pattanayak(项目式学习案例).org)
 <a href="https://www.packtpub.com/big-data-and-business-intelligence/intelligent-projects-using-python?utm_source=github&utm_medium=repository&utm_campaign=9781788996921"><img src="https://www.packtpub.com/sites/default/files/B10154_0.png" alt="Book Name" height="256px" align="right"></a>
 
 This is the code repository for [Intelligent Projects Using Python](https://www.packtpub.com/big-data-and-business-intelligence/intelligent-projects-using-python?utm_source=github&utm_medium=repository&utm_campaign=9781788996921), published by Packt.
